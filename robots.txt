@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://swishas.github.io/a/sitemap.html
+Sitemap: https://swishas.github.io/b/sitemap.html
+Sitemap: https://swishas.github.io/c/sitemap.html
+Sitemap: https://swishas.github.io/d/sitemap.html
